@@ -54,7 +54,8 @@
 
 .input-field{ 
     margin:0px 15px;
-    display:contents;
+    display:flex;
+    flex-direction: row;
     border-radius:3px;
     align-items: center;
     transition: max-height 0.5s;
